@@ -1,0 +1,1 @@
+java -cp ";lib/com.springsource.org.apache.commons.logging-1.1.1.jar;lib/org.springframework.beans-3.0.1.RELEASE-A.jar;lib/org.springframework.core-3.0.1.RELEASE-A.jar;classes" com.nandani.selfStudy.spring.Test
